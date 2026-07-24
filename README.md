@@ -30,4 +30,6 @@
 ### 2️⃣ 放置文件
 将 `server_bat.exe` 与你的 **服务器核心文件**（例如 `server.jar`）放在**同一个文件夹**内，目录结构如下：
 ### 3 下载源码
-如果要看源代码，详见[源码](https://github.com/OUGE-1/xiaotu_server_bat) 查看
+如果要看源代码，详见[源码](https://github.com/OUGE-1/xiaotu_server_bat) 查看，并且，还是纯python
+### 4 系统支持
+本项目仅支持Windows7+
